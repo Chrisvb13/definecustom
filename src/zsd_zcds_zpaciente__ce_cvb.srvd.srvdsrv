@@ -1,0 +1,4 @@
+@EndUserText.label: 'SD CUSTOM ENTITY CVB'
+define service ZSD_ZCDS_ZPACIENTE__CE_CVB {
+  expose ZCDS_CUSTOM_ENTITY_CVB;
+}
